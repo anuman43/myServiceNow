@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="AccountPropertyRole" max_length="40" name="x_150461_eid_provi_accountpropertyrole" type="collection">
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="RoleCode" mandatory="true" max_length="5" name="rolecode" type="string"/>
+        <element label="RoleDescription" max_length="100" name="roledescription" type="string"/>
+        <element label="RoleName" mandatory="true" max_length="100" name="rolename" type="string"/>
+        <element label="ROLE_ID" mandatory="true" max_length="40" name="role_id" type="integer"/>
+    </element>
+</database>

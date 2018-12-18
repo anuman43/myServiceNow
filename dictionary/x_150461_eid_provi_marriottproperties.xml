@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="MarriottProperties" max_length="40" name="x_150461_eid_provi_marriottproperties" type="collection">
+        <element label="Marsha code" mandatory="true" max_length="25" name="marsha_code" type="string"/>
+        <element label="Property status" max_length="40" name="property_status" type="integer"/>
+        <element label="State" max_length="150" name="state" type="string"/>
+    </element>
+</database>

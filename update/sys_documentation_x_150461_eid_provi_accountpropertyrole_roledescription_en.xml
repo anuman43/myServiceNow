@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="roledescription" label="RoleDescription" language="en" table="x_150461_eid_provi_accountpropertyrole">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>roledescription</element>
+            <help/>
+            <hint/>
+            <label>RoleDescription</label>
+            <language>en</language>
+            <name>x_150461_eid_provi_accountpropertyrole</name>
+            <plural>RoleDescriptions</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-11-19 22:32:42</sys_created_on>
+            <sys_id>4dce83724f712300ef180ab18110c76a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>RoleDescription</sys_name>
+            <sys_package display_value="EID Provisioning-SNOW" source="x_150461_eid_provi">e35a9b5e4fa12300ef180ab18110c775</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="EID Provisioning-SNOW">e35a9b5e4fa12300ef180ab18110c775</sys_scope>
+            <sys_update_name>sys_documentation_x_150461_eid_provi_accountpropertyrole_roledescription_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-11-19 22:32:42</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

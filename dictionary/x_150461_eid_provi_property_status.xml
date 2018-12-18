@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Property Status" max_length="40" name="x_150461_eid_provi_property_status" type="collection">
+        <element label="Property Status Code" mandatory="true" max_length="30" name="property_status_code" type="string"/>
+        <element label="Property Status Description" mandatory="true" max_length="300" name="property_status_description" type="string"/>
+        <element label="Property Status ID" mandatory="true" max_length="40" name="property_status_id" type="integer"/>
+    </element>
+</database>

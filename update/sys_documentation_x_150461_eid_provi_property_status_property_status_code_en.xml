@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="property_status_code" label="Property Status Code" language="en" table="x_150461_eid_provi_property_status">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>property_status_code</element>
+            <help/>
+            <hint/>
+            <label>Property Status Code</label>
+            <language>en</language>
+            <name>x_150461_eid_provi_property_status</name>
+            <plural>Property Status Codes</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-11-06 05:13:29</sys_created_on>
+            <sys_id>1f34286e4f252300ef180ab18110c7ad</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Property Status Code</sys_name>
+            <sys_package display_value="EID Provisioning-SNOW" source="x_150461_eid_provi">e35a9b5e4fa12300ef180ab18110c775</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="EID Provisioning-SNOW">e35a9b5e4fa12300ef180ab18110c775</sys_scope>
+            <sys_update_name>sys_documentation_x_150461_eid_provi_property_status_property_status_code_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-11-06 05:13:29</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
